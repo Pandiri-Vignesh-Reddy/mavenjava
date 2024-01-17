@@ -1,4 +1,4 @@
-package com.app.demo.Project1;
+package in.kmit.ExampleJavaProject;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello i did changes" );
     }
 }
